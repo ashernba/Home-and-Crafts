@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Home and Crafts"
+theme = "ananke"
+paginate = 10
+
+[params]
+  description = ""
+  cover = "images/cover.jpg"
+  author = "Asher"
+  authorlocation = "Chandler, Arizona"
+  authorwebsite = "https://homeandcrafts.org"
+  bio= "my bio"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  githubName = "ashernba"
+  hideHUGOSupport = true
+
