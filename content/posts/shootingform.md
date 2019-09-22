@@ -3,7 +3,7 @@ title: 'Proper Basketball Shooting Form'
 date: 2019-06-20T17:23:35-07:00
 ---
 
-Are you a really good basketball player, but don't know how to shoot the ball right? Well, today you will learn how to use proper shooting form!
+Are you a really good basketball player, but don't know how to shoot the ball right? Well, today you will learn how to use proper shooting form! Hooray!
 
 Step #1
 
