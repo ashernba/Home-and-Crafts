@@ -7,7 +7,7 @@ Are you a really good basketball player, but don't know how to shoot the ball ri
 
 Step #1
 
-I'm imagioning that you do already, but if you don't, make sure to get a basketball that fits you. It is very important that you have a basketball that fits you because if it doesn't, your shots might not get as close as with a ball your size.
+I'm imagining that you do already, but if you don't, make sure to get a basketball that fits you. It is very important that you have a basketball that fits you because if it doesn't, your shots might not get as close as with a ball your size.
 
 Step #2
 
